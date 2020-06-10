@@ -1,0 +1,1 @@
+export const SELECTED_TASK = "SELECTED_TASK";
